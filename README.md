@@ -1,6 +1,4 @@
-# c2c_summit_lab
-
-Welcome to the Prisma Cloud hands on lab.
+# Welcome to the Prisma Cloud hands on lab.
 
 ![image](https://github.com/PaloAltoNetworks/c2c_summit_lab/assets/137418261/7897ab81-d389-4f9c-a734-b54e35363d3c)
 
