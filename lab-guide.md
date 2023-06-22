@@ -1,5 +1,7 @@
 # PRISMA CLOUD CODE TO CLOUD LAB EXERCISE
 
+![image](https://github.com/PaloAltoNetworks/c2c_summit_lab/assets/137418261/b2b58e4a-6672-4141-a112-2b1ff3025c4c)
+
 ### Lab Introduction
 
 Thank you for joining today's Code to Cloud hands on lab with Prisma Cloud. The lab will focus on the ways
