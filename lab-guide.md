@@ -240,7 +240,7 @@ In addition to providing visibility, context, and protection for applications Pr
 
 #### Mitre ATT&CK Matrix
 
-Exampli Corp has adopted Prisma Cloud and maintained consistent visibility on their applications. But seeing your resources does not make them immune to incidents during runtime. By using the Mirtre ATT&CK Matrix the Exampli Corp Security team gets analysis of potential threats to their applications mapped against the Mitre standard.
+Exampli Corp has adopted Prisma Cloud and maintained consistent visibility on their applications. But seeing your resources does not make them immune to incidents during runtime. By using the Mitre ATT&CK Matrix the Exampli Corp Security team gets analysis of potential threats to their applications mapped against the Mitre standard.
 
 1. Let's begin by navigating to **Monitor -> Monitor -> ATT&CK**. On this screen we can see an interactive view of the attack framework organizing the different observed findings with associated attack methods.
 
