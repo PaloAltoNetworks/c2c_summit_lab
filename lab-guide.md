@@ -72,7 +72,7 @@ its contributors visit the link below:
 
 - [SupplyGoat- Vulnerable by design SCA](https://github.com/bridgecrewio/supplygoat)
 
-Bank of Anthos Application :
+##### Bank of Anthos Application :
 
 In this lab there is a mock banking application that is used as the application the Exampli Corp
 development team is building. To learn more about the project and its contributors visit the link
