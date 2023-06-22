@@ -35,7 +35,7 @@ The second section covers detecting and protecting containerized workloads power
 The final section includes shifting security left to help prevent vulnerable cloud infrastructure and applications from hitting runtime.
 
 ### Architecture 
-The lab primarily focuses on Exampli Corp’s Banking Application known as the Bank of Anthos. The Bank of Anthos application is an example application purpose built for Google Kubernetes Engine, you can find the repo in the Resources section.
+The lab primarily focuses on Exampli Corp’s banking application known as the Bank of Anthos. The Bank of Anthos application is an example application purpose built for Google Kubernetes Engine, you can find the repo in the Resources section.
 
 Prisma Cloud is integrated with mock company Exampli Corp in the following ways : 
 
