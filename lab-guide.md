@@ -51,8 +51,10 @@ Prisma Cloud is integrated with mock company Exampli Corp in the following ways 
 
 Vulnerable IaC :
 
-In this lab we leverage some intentionally vulnerable IaC. (**Do not use the resources in production.. they are vulnerable**) To learn more about the projects and
+In this lab we leverage some intentionally vulnerable IaC. To learn more about the projects and
 its contributors visit the link below:
+
+(**Do not use the resources in production.. they are vulnerable**)
 
 ##### Sample Git Repositories
 
