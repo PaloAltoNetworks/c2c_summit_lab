@@ -1,4 +1,4 @@
-# Welcome to the Prisma Cloud hands on lab.
+# Welcome to the Prisma Cloud hands on lab
 
 ![image](https://github.com/PaloAltoNetworks/c2c_summit_lab/assets/137418261/71df661b-f676-4ca5-b001-cbd9f74adbd7)
 
